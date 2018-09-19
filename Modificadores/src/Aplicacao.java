@@ -7,7 +7,7 @@ public class Aplicacao {
 		
 		c.setNumConta(54334);;
 		c.setAtiva(true);
-		c.depositar;
+		c.depositar(1000);
 		
 		
 		
